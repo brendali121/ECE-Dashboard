@@ -1,4 +1,4 @@
-# ECE-Dashboard
+# Code Sample: ECE-Dashboard
 
 ## Overview
 
